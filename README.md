@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Ahaskar Kashyap**
 
--  **Junior (Year 3) Computer Science major** at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/)  
+-  **Penultimate Computer Science major** at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/)  
 -  **Research Assistant** @ [C3i Hub, IIT Kanpur](https://c3ihub.org/)  
 -  **Software Development Lead** @ [DaxAsia](https://daxasia.com/)  
 -  **Vice-President**, Google Developer Student Club (GDSC), NTU  
