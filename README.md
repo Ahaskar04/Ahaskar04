@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ahaskar Kashyap(Kash)</h1>
-<h3 align="center">Comp Sci sophomore from NTU, Sg</h3>
+# 👋 Hi, I’m **Ahaskar Kashyap**
 
-- 🔭 I’m currently working on [DaxAsia](https://daxasia.com/)
+-  **Junior (Year 3) Computer Science major** at [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/)  
+-  **Research Assistant** @ [C3i Hub, IIT Kanpur](https://c3ihub.org/)  
+-  **Software Development Lead** @ [DaxAsia](https://daxasia.com/)  
+-  **Vice-President**, Google Developer Student Club (GDSC), NTU  
+-  **Director**, [NTUMUN](https://www.ntumodelun.com/)  
+-  **Portfolio:** <https://ahaskar04.github.io/ahaskar>
 
-- 👨‍💻 All of my projects are available at [https://ahaskar04.github.io/ahaskar](https://ahaskar04.github.io/ahaskar)
+---
 
-- 📫 How to reach me **ahaskar001@e.ntu.edu.sg**
+## 🔭 What I’m Working On
 
-- ⚡ Fun fact **my wardrobe is just black and white**
+| Project | What it is |
+|---------|------------|
+| **Unlearn** | AI-powered interactive physics help with visual explanations that make sense |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kashyapahaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahaskar" height="30" width="40" /></a>
-<a href="https://instagram.com/kash.2004_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kash.2004_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠 Projects
+
+### Full Stack
+| Project | Description |
+|---------|-------------|
+| **Kyodo** | Code in your local language, breaking the language barrier in programming → <https://kyodo.co.in/> |
+| **EchoEase** | Detect asthma & COPD from cough sounds → <https://github.com/Ahaskar04/Echo_Ease> |
+| **HomeSeek** | Rental-property search platform |
+
+### Front-End
+| Project | Description |
+|---------|-------------|
+| **Yog** | Track physical wellness & connect to instructors/courses → <https://www.figma.com/design/7s730ql03nGXrbWLSvy5IT/Yog?m=auto&t=LoInMfdxXmdN30uY-6> |
+
+### Databases
+| Project | Description |
+|---------|-------------|
+| **Hospital DBMS** | Full hospital database management system → <https://github.com/Ahaskar04/SC2002-HMS> |
+
+### AI / ML
+| Project | Description |
+|---------|-------------|
+| **codex** | AI coding assistant with natural-language queries, Qwen 2.5-Coder & Stack Overflow support → <https://stackflow.streamlit.app/> |
+| **ColPali-Vision RAG** | RAG based on vision → <https://github.com/Ahaskar04/ColPali-Vision-RAG> |
+| **Tic-Tac-Toe Agents** | ChatGPT vs Gemini smol-agent battle → <https://github.com/Ahaskar04/tic-tac-toe> |
+| **Pydantic Web Search** | Web-search agent using Brave API & Pydantic → <https://github.com/Ahaskar04/pydantic-web-search> |
+| **crawl4ai** | AI-powered web scraper & query system → <https://github.com/Ahaskar04/crawl4ai> |
+| **Tele RAG Bot** | RAG application via Telegram bot → <https://github.com/Ahaskar04/Tele_RAG_Bot> |
+| **ADK Projects** | Experiments & workflows with Google ADK → <https://github.com/Ahaskar04/agents/tree/main/adk-projects> |
+
+---
+
+### 📫 Get in Touch
+
+Feel free to open an issue, drop a PR, or connect on my [portfolio](https://ahaskar04.github.io/ahaskar) — always happy to collaborate and build cool stuff together!
