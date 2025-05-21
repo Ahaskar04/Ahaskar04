@@ -13,7 +13,7 @@
 
 | Project | What it is |
 |---------|------------|
-| **Solved** | AI-powered interactive physics help with visual explanations that make sense |
+| **Solvd** | AI-powered interactive physics help with visual explanations that make sense |
 
 ---
 
